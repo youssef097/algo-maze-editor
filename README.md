@@ -4,9 +4,9 @@
 Maze Editor to visually undersand different searching algorithms and data structures. You can draw whatever you want on a 25x25 or 50x50 grid, set a starting and ending poing and watch how different searching algorithms behave to find the ending point. 
 
 ## Technologies used
-✅ Canvas API
-✅ [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) search algorith.
-✅ [DFS](https://en.wikipedia.org/wiki/Depth-first_search) search algorith.
+✅ Canvas API <br>
+✅ [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) search algorith. <br>
+✅ [DFS](https://en.wikipedia.org/wiki/Depth-first_search) search algorith. <br>
 
 ## Demos
 ![maze3](https://user-images.githubusercontent.com/44708451/161941412-eae2033f-d09f-430f-9745-6f2984405c71.gif)
